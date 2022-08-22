@@ -1,0 +1,27 @@
+*{
+  margin: auto;
+}
+
+body {
+ 
+    background-image:  #ffffff;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+  }
+  
+  
+  .loginContainer {
+    justify-content: center;
+    display: flex;
+    height: auto;
+    color: red;
+    font-size: 15px;
+    width: 35em;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px 4px #0000001d;
+    padding: 2rem;
+    background-color: white;
+    margin: auto;
+  }
+  
